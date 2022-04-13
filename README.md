@@ -10,7 +10,7 @@ The **`Dribble-Like Swiping Animatiom`** project is about creating Swiping Anima
 
 ## General Info
 
-This project steps into FrontEnd development to create a commonly seen scroll animation that can be seen on sites like `Dribble.com`. This involves 0% Javascript, and no other frameworks like GSAP. Instead, it only rely on some good ol' fashioned HTML & CSS.
+This project steps into FrontEnd development to create a commonly seen scroll animation that can be seen on sites like `Dribble.com`. This involves 0% Javascript, and no other frameworks like GSAP. Instead, it only rely on some good ol' fashioned HTML & CSS. Click [here](https://israel-beni.github.io/Dribble-Like-Swiping-Animation/) to see the code in action.
 
 ## Source
 
